@@ -4,7 +4,7 @@ A weather app where you can view the current weather of a country or state.
 ## openweathermap API
 This weather app utilizes the openweathermap API to fetch weather data.
 
-## Deployment Link : https://kraftshala-weahterapp.vercel.app/
+## Deployment Link : 
 
 ## Features
 - [x] Search by city name or country name
